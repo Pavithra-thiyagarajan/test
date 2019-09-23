@@ -7,5 +7,11 @@ int main(void)
     num = 5;
 
     printf("%d", num);
+    
+    char a;
+    
+    a = '3';
+    
+    printf("%c", a);
 
 }
